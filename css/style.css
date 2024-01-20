@@ -41,6 +41,7 @@ body {
 
 .search {
     width: 20px;
+    margin-left: auto;
 }
 
 .hero h1 {
