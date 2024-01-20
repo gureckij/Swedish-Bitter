@@ -19,6 +19,10 @@ body {
     display: flex;
 }
 
+.logo {
+    width: 197px;
+}
+
 .site-navigation {
     margin: 0;
     padding: 0;
