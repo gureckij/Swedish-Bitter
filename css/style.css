@@ -4,6 +4,19 @@ body {
     color: #303030;
     font-size: 16px;
     line-height: 20px;
+
+    margin: 0;
+}
+
+.page-header {
+    width: 1100px;
+    margin: 0 auto;
+    padding: 35px 90px;
+    margin-bottom: 15px;
+}
+
+.main-nav {
+    display: flex;
 }
 
 .site-navigation-item a {
@@ -98,15 +111,4 @@ body {
     line-height: 15px;
     text-decoration: none;
     color: #000000;
-}
-
-body {
-    margin: 0;
-}
-
-.page-header {
-    width: 1100px;
-    margin: 0 auto;
-    padding: 35px 90px;
-    margin-bottom: 15px;
 }
