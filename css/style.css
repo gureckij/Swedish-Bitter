@@ -23,6 +23,10 @@ body {
     width: 197px;
 }
 
+.main-nav .logo {
+    margin-right: 60px;
+}
+
 .site-navigation {
     margin: 0;
     padding: 0;
