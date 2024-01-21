@@ -69,6 +69,10 @@ body {
     padding: 45px 0;
 }
 
+.quote blockquote {
+    margin: 0;
+}
+
 .quote p {
     font-size: 24px;
     line-height: 40px;
