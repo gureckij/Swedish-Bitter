@@ -89,6 +89,14 @@ body {
     margin: 0 auto;
 }
 
+.fact-article-1 {
+    margin-bottom: 60px;
+}
+
+.fact-article-2 {
+    margin-bottom: 110px;
+}
+
 .fact-article h2 {
     font-weight: 400;
     font-size: 28px;
