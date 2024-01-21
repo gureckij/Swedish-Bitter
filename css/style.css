@@ -86,6 +86,7 @@ body {
 
 .fact-article {
     width: 1020px;
+    margin: 0 auto;
 }
 
 .fact-article h2 {
