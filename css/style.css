@@ -50,6 +50,10 @@ body {
     padding: 0 90px;
 }
 
+.hero {
+    margin-bottom: 110px;
+}
+
 .hero h1 {
     font-size: 45px;
     line-height: 55px;
