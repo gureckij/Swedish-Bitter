@@ -84,6 +84,10 @@ body {
     text-align: center;
 }
 
+.fact-article {
+    width: 1020px;
+}
+
 .fact-article h2 {
     font-weight: 400;
     font-size: 28px;
