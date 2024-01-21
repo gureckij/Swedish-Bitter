@@ -47,6 +47,7 @@ body {
 .main-content {
     width: 1100px;
     margin: 0 auto;
+    padding: 0 90px;
 }
 
 .hero h1 {
