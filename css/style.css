@@ -62,6 +62,10 @@ body {
     line-height: 55px;
 }
 
+.quote {
+    width: 700px;
+}
+
 .quote p {
     font-size: 24px;
     line-height: 40px;
