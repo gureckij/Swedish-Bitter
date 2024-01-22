@@ -169,6 +169,10 @@ body {
     background-color: #7eb252;
 }
 
+.gallery {
+    width: 930px;
+}
+
 .gallery h2 {
     font-weight: 700;
     font-size: 40px;
