@@ -171,6 +171,7 @@ body {
 
 .gallery {
     width: 930px;
+    margin: 0 auto;
 }
 
 .gallery h2 {
