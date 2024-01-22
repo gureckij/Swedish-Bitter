@@ -137,6 +137,10 @@ body {
     display: flex;
 }
 
+.simptoms-column {
+    width: 500px;
+}
+
 .symptoms h2 {
     font-weight: 700;
     font-size: 40px;
