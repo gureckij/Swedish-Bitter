@@ -99,6 +99,10 @@ body {
     margin-bottom: 110px;
 }
 
+.fact-article-content {
+    width: 560px;
+}
+
 .fact-article h2 {
     font-weight: 400;
     font-size: 28px;
