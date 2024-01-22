@@ -125,6 +125,10 @@ body {
     color: #000000;
 }
 
+.fact-article-img {
+    width: 420px;
+}
+
 .symptoms h2 {
     font-weight: 700;
     font-size: 40px;
