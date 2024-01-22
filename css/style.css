@@ -91,6 +91,7 @@ body {
 }
 
 .fact-article-1 {
+    flex-direction: row-reverse;
     margin-bottom: 60px;
 }
 
