@@ -135,6 +135,7 @@ body {
 .symptoms {
     margin-bottom: 110px;
     display: flex;
+    justify-content: space-between;
 }
 
 .simptoms-column {
