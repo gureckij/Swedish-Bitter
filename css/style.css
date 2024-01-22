@@ -86,6 +86,7 @@ body {
 
 .fact-article {
     display: flex;
+    justify-content: space-between;
     width: 1020px;
     margin: 0 auto;
 }
