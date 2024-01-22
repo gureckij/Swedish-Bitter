@@ -134,6 +134,7 @@ body {
 
 .symptoms {
     margin-bottom: 110px;
+    display: flex;
 }
 
 .symptoms h2 {
