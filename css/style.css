@@ -245,6 +245,10 @@ body {
     line-height: 15px;
 }
 
+.footer-navigation-item {
+    width: 175px;
+}
+
 .footer-menu-item a {
     font-size: 12px;
     line-height: 15px;
