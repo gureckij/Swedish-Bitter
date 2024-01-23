@@ -226,6 +226,12 @@ body {
     color: #9a9a9a;
 }
 
+.footer-navigation {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .footer-navigation-title {
     font-weight: 700;
     font-size: 12px;
