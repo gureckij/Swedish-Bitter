@@ -219,6 +219,10 @@ body {
     display: flex;
 }
 
+.footer-column {
+    width: 210px;
+}
+
 .footer-link {
     font-size: 12px;
     line-height: 16px;
@@ -230,6 +234,7 @@ body {
     margin: 0;
     padding: 0;
     list-style: none;
+    width: 705px;
 }
 
 .footer-navigation-title {
