@@ -198,6 +198,10 @@ body {
     width: 170px;
 }
 
+.preview-item {
+    margin-bottom: 20px;
+}
+
 .page-footer {
     background-color: #f6f9f3;
 }
