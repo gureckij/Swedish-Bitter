@@ -202,6 +202,10 @@ body {
     margin-bottom: 20px;
 }
 
+.preview-item:last-child {
+    margin-bottom: 0;
+}
+
 .page-footer {
     background-color: #f6f9f3;
 }
