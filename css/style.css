@@ -186,10 +186,15 @@ body {
     line-height: 50px;
 }
 
+.active-img {
+    width: 740px;
+}
+
 .gallery-preview {
     margin: 0;
     padding: 0;
     list-style: none;
+    width: 170px;
 }
 
 .page-footer {
