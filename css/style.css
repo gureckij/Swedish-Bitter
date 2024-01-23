@@ -237,6 +237,7 @@ body {
     list-style: none;
     width: 705px;
     display: flex;
+    justify-content: space-between;
 }
 
 .footer-navigation-title {
