@@ -236,6 +236,7 @@ body {
     padding: 0;
     list-style: none;
     width: 705px;
+    display: flex;
 }
 
 .footer-navigation-title {
