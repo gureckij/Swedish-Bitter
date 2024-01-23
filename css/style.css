@@ -186,6 +186,12 @@ body {
     line-height: 50px;
 }
 
+.gallery-preview {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .page-footer {
     background-color: #f6f9f3;
 }
